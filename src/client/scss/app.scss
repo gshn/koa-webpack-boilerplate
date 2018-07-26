@@ -1,0 +1,7 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+$maxiConsoleHeight: calc(100vh - 6.5rem);
+
+html {
+  height: $maxiConsoleHeight;
+}

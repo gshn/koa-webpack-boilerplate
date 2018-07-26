@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "semi": [
+      "error",
+      "never"
+    ],
+    "linebreak-style": 0,
+    "no-await-in-loop": 0
+  }
+}
